@@ -1,14 +1,14 @@
-#Tue May 30 10:22:47 BRT 2023
+#Wed May 31 10:45:22 BRT 2023
 path.4=5/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.4=C\:\\Projetos\\Wendell\\react\\react-native-navegacao-entre-telas\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.3=C\:\\Projetos\\Wendell\\react\\react-native-navegacao-entre-telas\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.2=C\:\\Projetos\\Wendell\\react\\react-native-navegacao-entre-telas\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=C\:\\Projetos\\Wendell\\react\\react-native-navegacao-entre-telas\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.0=C\:\\Projetos\\Wendell\\react\\react-native-navegacao-entre-telas\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.4=C\:\\Projetos\\Wendell\\react\\react-native-navegacao-entre-telas\\React_Native_Alura_Projeto_lojaDeFrutas\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.3=C\:\\Projetos\\Wendell\\react\\react-native-navegacao-entre-telas\\React_Native_Alura_Projeto_lojaDeFrutas\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.2=C\:\\Projetos\\Wendell\\react\\react-native-navegacao-entre-telas\\React_Native_Alura_Projeto_lojaDeFrutas\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Projetos\\Wendell\\react\\react-native-navegacao-entre-telas\\React_Native_Alura_Projeto_lojaDeFrutas\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.0=C\:\\Projetos\\Wendell\\react\\react-native-navegacao-entre-telas\\React_Native_Alura_Projeto_lojaDeFrutas\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex

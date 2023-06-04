@@ -3,8 +3,10 @@ import { useState, useEffect } from 'react';
 import { carregaProdutores } from '../servicos/carregaDados';
 
 export default function useProdutores(melhoresProdutores) {
+    
     const [lista, setLista] = useState([]);
-
+   
+   
     useEffect(() => {
         const retorno = carregaProdutores();
         retorno.lista.sort(
@@ -17,8 +19,10 @@ export default function useProdutores(melhoresProdutores) {
                 (produtor) => produtor.estrelas > 3
             );
         }
+        
         setLista(novaLista);
     }, []);
-
+  
     return lista;
+
 }

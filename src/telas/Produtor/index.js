@@ -8,7 +8,7 @@ import Cesta from './componentes/Cesta';
 import Topo from '../../componentes/Topo';
 
 import topo from '../../assets/produtores/topo.png';
-
+ 
 export default function Produtor() {
     const route = useRoute();
     const { tituloProdutor, tituloCestas } = useTextos();
